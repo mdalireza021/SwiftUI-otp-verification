@@ -11,6 +11,9 @@
 		F5B4B7142A6CE67200B1492A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5B4B7132A6CE67200B1492A /* ContentView.swift */; };
 		F5B4B7162A6CE67300B1492A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5B4B7152A6CE67300B1492A /* Assets.xcassets */; };
 		F5B4B7192A6CE67300B1492A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5B4B7182A6CE67300B1492A /* Preview Assets.xcassets */; };
+		F5B4B7202A6CF20700B1492A /* VerifyLogin.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5B4B71F2A6CF20700B1492A /* VerifyLogin.swift */; };
+		F5B4B7222A6D6C8B00B1492A /* RegisterPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5B4B7212A6D6C8B00B1492A /* RegisterPage.swift */; };
+		F5B4B7242A6D7A6000B1492A /* LoginPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5B4B7232A6D7A6000B1492A /* LoginPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		F5B4B7132A6CE67200B1492A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F5B4B7152A6CE67300B1492A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5B4B7182A6CE67300B1492A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F5B4B71F2A6CF20700B1492A /* VerifyLogin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerifyLogin.swift; sourceTree = "<group>"; };
+		F5B4B7212A6D6C8B00B1492A /* RegisterPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterPage.swift; sourceTree = "<group>"; };
+		F5B4B7232A6D7A6000B1492A /* LoginPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +57,9 @@
 		F5B4B7102A6CE67200B1492A /* SwiftUIOtpVerificationUI */ = {
 			isa = PBXGroup;
 			children = (
+				F5B4B7232A6D7A6000B1492A /* LoginPage.swift */,
+				F5B4B7212A6D6C8B00B1492A /* RegisterPage.swift */,
+				F5B4B71F2A6CF20700B1492A /* VerifyLogin.swift */,
 				F5B4B7112A6CE67200B1492A /* SwiftUIOtpVerificationUIApp.swift */,
 				F5B4B7132A6CE67200B1492A /* ContentView.swift */,
 				F5B4B7152A6CE67300B1492A /* Assets.xcassets */,
@@ -139,6 +148,9 @@
 			files = (
 				F5B4B7142A6CE67200B1492A /* ContentView.swift in Sources */,
 				F5B4B7122A6CE67200B1492A /* SwiftUIOtpVerificationUIApp.swift in Sources */,
+				F5B4B7202A6CF20700B1492A /* VerifyLogin.swift in Sources */,
+				F5B4B7242A6D7A6000B1492A /* LoginPage.swift in Sources */,
+				F5B4B7222A6D6C8B00B1492A /* RegisterPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
