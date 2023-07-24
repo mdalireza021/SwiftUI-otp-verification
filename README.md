@@ -27,10 +27,9 @@ This dynamic and user-friendly application showcases a seamless login, signup, a
 
 # ScreenShots
 <p align="center">
-  <img width="300" height="650" src="">
-  <img width="300" height="650" src="">
-  <img width="300" height="650" src="">
-  
+  <img width="300" height="650" src="https://github.com/mdalireza021/SwiftUI-otp-verification/blob/main/screenshoots/login.png">
+  <img width="300" height="650" src="https://github.com/mdalireza021/SwiftUI-otp-verification/blob/main/screenshoots/register.png">
+  <img width="300" height="650" src="https://github.com/mdalireza021/SwiftUI-otp-verification/blob/main/screenshoots/verification.png">
 </p> 
 
 
